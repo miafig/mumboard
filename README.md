@@ -1,4 +1,4 @@
-# Mumboard Soundboard
+# Mumboard
 
 ```bash
 python3 generate_manifest.py
